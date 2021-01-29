@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.ChoiceBox?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="529.0" prefWidth="681.0" xmlns="http://javafx.com/javafx/15.0.1" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <ChoiceBox id="Menu de Dados" layoutX="186.0" layoutY="29.0" prefHeight="26.0" prefWidth="481.0" />
+      <ChoiceBox id="Data" layoutX="14.0" layoutY="29.0" prefWidth="150.0" />
+   </children>
+</AnchorPane>
